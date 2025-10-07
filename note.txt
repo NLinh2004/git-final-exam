@@ -1,5 +1,3 @@
 - Git giúp quản lý mã nguồn dễ dàng hơn
 - Có thể quay lại các phiên bản cũ
 - Hỗ trợ làm việc nhóm hiệu quả
-- Giúp học cách commit logic hơn
-- Dễ dàng kiểm soát thay đổi
