@@ -1,5 +1,8 @@
 Giới thiệu cá nhân:
-Hello, this  Tăng Thị Nhựt Linh
+Hello, this is Tăng Thị Nhựt Linh
+Xin chào, tôi là Tăng Thị Nhựt Linh Linh
+Conflict resolved on 07/10/2025
+
 Tôi là sinh viên ngành Công nghệ Thông tin.
 Tôi yêu thích việc học lập trình và phát triển phần mềm.
 Tôi muốn trở thành một kỹ sư phần mềm chuyên nghiệp.
