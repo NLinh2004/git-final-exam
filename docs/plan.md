@@ -28,11 +28,17 @@
 
 10\. Đánh giá kết quả và rút kinh nghiệm.
 
+<<<<<<< Updated upstream
 Cập nhật kế hoạch sprint 3.
 
 Thêm nhiệm vụ kiểm thử tự động.
 
 Hoàn thiện báo cáo tiến độ tuần.
+=======
+Thêm phần mô tả chi tiết chức năng.
+
+Chuẩn bị kế hoạch ra mắt phiên bản beta.
+>>>>>>> Stashed changes
 
 
 
