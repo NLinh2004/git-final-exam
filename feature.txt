@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống thông báo tự động
+
+1. Khi có đơn hàng mới, hệ thống gửi thông báo cho quản lý.
+2. Nhân viên nhận thông báo trực tiếp qua giao diện phần mềm.
+3. Tích hợp âm thanh cảnh báo khi có sự kiện quan trọng.
+4. Có thể tắt/mở thông báo theo vai trò người dùng.
+5. Mục tiêu: cải thiện khả năng phản hồi nhanh trong cửa hàng.
